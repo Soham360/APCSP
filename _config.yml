@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: Soham Kamat 2022-2023 APCSP WebPage
+title: Soham Kamat
+description: 2022-2023 APCSP WebPage
 github_username: Soham360
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "APCSP"
